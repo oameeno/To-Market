@@ -1,50 +1,39 @@
 # To-Market
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-*Weather Dashboard
+## Description
+This application is to be used to store market inventories for individual account holders.
 
-This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
+## Table of Contents
+- [Description](#description)
+- [Usage](#usage)
+- [TechStack](#techstack)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
-OpenWeather API is used to retrieve weather data for cities. And localStorage is used to store persistent data.
+## Usage
+You may create an account and use this blog site at the folloing [Temporary Link](https://www.google.com/)
 
-*Installation
-Download or clone repository
-Open the main page (index.html) on your browser to view
-Use a text editor to view all coding, Visual Studio Coding is recommended.
-Functionality
-When searched for a city, the current and future conditions for that city will be presented and that city is added to the search history
+## TechStack
+ - Javascript
+ - HTML
+ - CSS
+ - HandleBars
+ - Express
+ - Verifier API
+ - NodeJS
+ - Bulma CSS Framework
 
-*When viewing current weather conditions for the city, the following is shown:
+## License
+This application is covered under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
-City name
-Date
-An icon representation of weather conditions
-Temperature
-Humidity
-Wind speed
-UV index
+## Contributing
+Not accepting contributions
 
-*When viewing the UV index, it is presented with a color indicating severity
-
-#3EA72D 0-2 Low
-#FFF300 3-5 Moderate
-#F18B00 6-7 Orange
-#E53210 8-10 Very High
-#B567A4 11+ Extreme
-
-*When viewing the future weather conditions for the city, a 5-day forecast will be presented with the following information:
-
-Date
-An icon representation of weather conditions
-Temperature
-Humidity
-When a city in the search history is clicked, the current and future conditions for that city is presented again
-
-When the weather dashboard is opened, the last searched city forecast is presented
-
-*Features
-HTML
-CSS
-Bootstrap
-jQuery
-Moment.js
-Server-Side API - OpenWeather API
+## Questions
+This code is made available by the following contributors: 
+ - [ZachFulmer](https://github.com/ZachFulmer)
+ - [mherring11](https://github.com/mherring11)
+ - [FPCITS](https://github.com/fpcits)
+ - [oameeno](https://github.com/oameeno)
